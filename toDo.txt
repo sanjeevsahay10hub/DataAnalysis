@@ -1,0 +1,33 @@
+Done:
+Naive Bayes Classifier
+Decision Tree
+Random Forest
+
+Doing:
+For understanding:
+	Linear Regression (Conditional mean & distribution, hypothesis testing (t-test, z-test, F-test), Continuous probability distributions.)
+	Probability distributions
+
+To do:
+Tools:
+	Excel - Start it already!
+	Python - Do all the assignments in python.
+	R
+Algorithms:
+	Clustering/unsupervised learning:
+		K-Means - online resources
+		DBSCAN
+		Hierarchical clustering
+		Mixture models.
+	Classification:
+		K nearest neighbour classifiction - online resources
+		Natural Language Processing (Text classification-using Naive Bayes in python) - online resources
+	
+	Theoretical study: Will discuss in some time.
+		PCA
+		SVD
+		Neural Networks
+		Support Vector Machines
+
+
+
