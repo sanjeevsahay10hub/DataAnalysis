@@ -1,0 +1,14 @@
+1.Pclass - Passengers class (1= 1st, 2= 2nd, 3= 3rd)
+2.survival - Survival (0=NO, 1= Yes)
+3.name- Name
+4.sex- Sex
+5.age- Age
+6.sibsp- Number of siblings/spouse Aboard
+7.parch- Number of Parents/ Children Aboard
+8.ticket- Ticket Number
+9.fare- Passenger Fare (British Pound)
+10.cabin- Cabin
+11.embarked- port of Embarkation ( c= cherbourg; Q= Queenstown; s= southampton)
+12.boat- Lifeboat
+13.body- Body Identification Number
+14.home.dest- Home/ Destination 
