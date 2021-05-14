@@ -1,0 +1,10 @@
+body{
+  color: white;
+  background: green;
+  text-align: center;
+}
+img{
+  border: 10px solid yellow;
+  width:25%;
+  height: 250px;
+}
